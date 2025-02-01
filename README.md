@@ -7,10 +7,6 @@
 
 - 👯 I’m looking to collaborate as a **Java Developer, Quality Assurance Engineer, Business Analyst, Project Manager**
 
-- 🤝 I’m looking for help with **Trainee/Internship Opportunities**
-
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **sahanmaitipe2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
