@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahan Yasas Maitipe</h1>
 <h3 align="center">A Passionate MIS Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=symaitipe&label=Profile%20views&color=0e75b6&style=flat" alt="symaitipe" /> </p>
+
 
 - 🔭 I’m currently studying on **BSc in Management Information System (Special)**
 
