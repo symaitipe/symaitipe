@@ -71,6 +71,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=symaitipe&show_icons=true&locale=en&layout=compact" alt="symaitipe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=symaitipe&show_icons=true&locale=en" alt="symaitipe" /></p>
 
 
