@@ -68,7 +68,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats:
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
   <a href="https://github.com/symaitipe">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=symaitipe&show_icons=true&theme=dark&hide_border=true&title_color=FFFFFF" alt="GitHub Stats"/>
