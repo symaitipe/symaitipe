@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **BSc in Management Information System (Special)**
 
-- 👯 I’m looking to collaborate as a **Java Developer, Quality Assurance Engineer, Business Analyst, Project Manager**
+- 👯 I’m looking to collaborate as a **Java Developer, Software Quality Assurance Engineer, Business Analyst, Project Manager**
 
 - 📫 How to reach me **sahanmaitipe2002@gmail.com**
 
