@@ -70,10 +70,10 @@
 
 <div align="center">
   <a href="https://github.com/symaitipe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=symaitipe&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=symaitipe&show_icons=true&theme=dark&hide_border=true&title_color=FFFFFF" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/symaitipe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=symaitipe&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=symaitipe&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF" alt="Most Used Languages"/>
   </a>
 </div>
 
