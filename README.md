@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahan Yasas Maitipe</h1>
+<h1 align="center">Hi, I'm Sahan Yasas Maitipe</h1>
 <h3 align="center">A Passionate MIS Student</h3>
 
 
